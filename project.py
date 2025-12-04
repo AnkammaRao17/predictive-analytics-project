@@ -71,3 +71,4 @@ sample_input = pd.DataFrame(
 prediction = model.predict(sample_input)
 print("Predicted Disease:", prediction[0])
 
+
