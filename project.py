@@ -8,7 +8,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
 
 # Load dataset
-df = pd.read_csv("improved_disease_dataset.csv")
+df = pd.read_csv("C:\\Users\\ankam\\OneDrive\\Pictures\\Documents\\Desktop\\improved_disease_dataset.csv")
 print(df.head())
 
 # Basic EDA
